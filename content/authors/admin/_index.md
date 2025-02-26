@@ -3,15 +3,15 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Truong Vu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Truong
+last_name: Vu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐼
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Northeastern University - Khoury College of Computer Sciences
+    url: https://www.khoury.northeastern.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,12 +48,12 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Generative Models
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: Northeastern University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
